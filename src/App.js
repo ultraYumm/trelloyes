@@ -7,8 +7,9 @@ class App extends Component {
     store: {
       lists: [],
       allCards: {},
-    }
-  };
+      }
+    } 
+  
 
 
 render () {
