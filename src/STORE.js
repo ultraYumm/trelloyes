@@ -34,6 +34,6 @@ export default {
     'j': { id: 'j', title: 'Tenth card', content: 'lorem ipsum' },
     'k': { id: 'k', title: 'Eleventh card', content: 'lorem ipsum' },
     'l': { id: 'l', title: 'Twelfth card', content: 'lorem ipsum' },
-    'm': { id: 'm', title: 'Thirteenth card', content: 'lorem ipsum' },
+    'm': { id: 'm', title: 'Thirteenth card', content: 'bla bla' },
   },
 }

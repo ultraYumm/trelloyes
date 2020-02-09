@@ -1,6 +1,8 @@
 import React from 'react'
 import './List.css';
 import Card from './Card'
+/*import './src/STORE.js';*/
+
 
 
 export default function List(props) {

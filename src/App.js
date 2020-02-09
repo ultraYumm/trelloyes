@@ -2,6 +2,8 @@ import React, { Component } from 'react';
 import './App.css';
 import List from './composition/List';
 
+import './STORE.js';
+
 class App extends Component {
   static defaultProps = {
     store: {
@@ -27,7 +29,7 @@ render () {
               cards={list.cardIds.map(id => store.allCards[id])}
             />
           ))}
-    </div>
+          </div>
     </main>      
   )
 }
